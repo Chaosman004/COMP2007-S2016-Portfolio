@@ -14,7 +14,16 @@
             <li>
                 <h3>Java Music-Color Application</h3>
             </li>
-            
+            <li>
+                <h3>Java Employee Managment System</h3>
+            </li>
+            <li>
+                <h3>Visual C# Temperature Cacluator</h3>
+            </li>
+            <li>
+                <h3>Project Managemnt Documents</h3>
+            </li>
+
 
         </ul>
     </div>

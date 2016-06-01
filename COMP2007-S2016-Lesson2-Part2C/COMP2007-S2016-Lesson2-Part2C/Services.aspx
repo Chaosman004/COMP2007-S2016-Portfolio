@@ -13,6 +13,21 @@
             <li>
                 <h3>C++ Calculators</h3>
             </li>
+            <li>
+                <h3>Java Review</h3>
+            </li>
+            <li>
+                <h3>Database Design</h3>
+            </li>
+            <li>
+                <h3>Web Design/ Building</h3>
+            </li>
+            <li>
+                <h3>Work Flow Maker</h3>
+            </li>
+            <li>
+                <h3>Logic Flow Chart Creation</h3>
+            </li>
 
         </ul>
 
