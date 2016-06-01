@@ -1,1 +1,8 @@
 ﻿/* custom css lives here */
+div.MyAvatar img#MyAvatar {
+    width: 15%;
+}
+.lessPadding {
+   padding-left: 10px;
+   margin-left: 30px;
+}
